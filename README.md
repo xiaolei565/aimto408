@@ -8,6 +8,10 @@
 
 #### 21.08.22 更新网盘链接
 
+#### 21.08.24 会随心更新一些内容，欢迎各位贡献自己408笔记到仓库
+
+
+
 #### 百度网盘：https://pan.baidu.com/s/1A7Gse-025KB8ghME1V-YWg 提取码：2022
 
 #### 阿里网盘：https://www.aliyundrive.com/s/mYRnqU4xygt
