@@ -30,3 +30,6 @@
 
 
 如有下载不畅，请在issues中说明，或者邮件：xuelei0227@foxmail.com联系
+
+如果你的github下载不畅，可以点击[dev-sidecar: 开发者边车github 加速](https://gitee.com/docmirror/dev-sidecar)试一试
+
