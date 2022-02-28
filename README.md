@@ -40,11 +40,13 @@
 
 #### 22.02.18 更新2022年408真题回忆版以及添加部分模拟题
 
+#### 2202.28 更新阿里云盘链接，并上传中科大的复试资料
 
 
-#### 百度网盘：https://pan.baidu.com/s/1OrYrfEY2Z3JtTNZHXjRD5g  提取码：9aqr
 
-#### 阿里网盘：https://www.aliyundrive.com/s/3S2hyaz4RFu
+#### 百度网盘：https://pan.baidu.com/s/1OrYrfEY2Z3JtTNZHXjRD5g  提取码：9aqr （网速太慢，内容暂未更新）
+
+#### 阿里云盘 ：https://www.aliyundrive.com/s/wdeBS6RaXZm  提取码: 89ua 
 
 
 
