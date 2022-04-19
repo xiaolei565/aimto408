@@ -1,12 +1,10 @@
 # aimto408
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaolei565&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 </br>
 
 这个repo是为了那些准备死磕计算机考研408的考研党准备的，当然你如果4门课中的部分也可以看看，欢迎star。
-
-
-
 
 #### 21.08.22 更新网盘链接
 
@@ -28,15 +26,16 @@
 
 #### 22.03.08 更新2023年王道和天勤pdf，文件较大请进入阿里云盘下载
 
-
+#### 22.04.19 更新一份2019年的王道复试指导，文件较大请进入阿里云盘下载
 
 #### 百度网盘：https://pan.baidu.com/s/1OrYrfEY2Z3JtTNZHXjRD5g  提取码：9aqr （网速太慢，内容暂未更新）
 
-#### 阿里云盘 ：https://www.aliyundrive.com/s/wdeBS6RaXZm  提取码: 89ua 
-
-
+#### 阿里云盘 ：https://www.aliyundrive.com/s/wdeBS6RaXZm  提取码: 89ua
 
 如有下载不畅，请在issues中说明，或者邮件：xuelei0227@foxmail.com联系
 
 如果你的github下载不畅，可以点击[dev-sidecar: 开发者边车github 加速](https://gitee.com/docmirror/dev-sidecar)试一试
 
+如果本仓库对你有帮助，欢迎扫描下面二维码给我赞赏
+
+![](https://github.com/xiaolei565/aimto408/blob/master/wxpay.jpeg?raw=true)
