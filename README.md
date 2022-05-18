@@ -32,9 +32,10 @@
 
 #### 阿里云盘 ：https://www.aliyundrive.com/s/wdeBS6RaXZm  提取码: 89ua
 
-如有下载不畅，请在issues中说明，或者邮件：xuelei0227@foxmail.com联系
+没有阿里云盘的同学欢迎点击下方我的邀请链接进行注册，直接领取300GB空间
+https://pages.aliyundrive.com/mobile-page/web/beinvited.html?code=b75a122
 
-如果你的github下载不畅，可以点击[dev-sidecar: 开发者边车github 加速](https://gitee.com/docmirror/dev-sidecar)试一试
+如有下载不畅，请在issues中说明，或者邮件：xuelei0227@foxmail.com联系
 
 如果本仓库对你有帮助，欢迎扫描下面二维码给我赞赏
 
