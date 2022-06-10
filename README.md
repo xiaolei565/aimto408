@@ -28,6 +28,8 @@
 
 #### 22.04.19 更新一份2019年的王道复试指导，文件较大请进入阿里云盘下载
 
+#### 22.06.10 更新一份复试机试攻略
+
 #### 百度网盘：https://pan.baidu.com/s/1OrYrfEY2Z3JtTNZHXjRD5g  提取码：9aqr （网速太慢，内容暂未更新）
 
 #### 阿里云盘 ：https://www.aliyundrive.com/s/wdeBS6RaXZm  提取码: 89ua
