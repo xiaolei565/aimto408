@@ -30,6 +30,8 @@
 
 #### 22.06.10 更新一份复试机试攻略
 
+#### 22.08.31 感谢@Sxmx提出本人总结的代码中的bug，目前已修改，再次鸣谢
+
 #### 百度网盘：https://pan.baidu.com/s/1OrYrfEY2Z3JtTNZHXjRD5g  提取码：9aqr （网速太慢，内容暂未更新）
 
 #### 阿里云盘 ：https://www.aliyundrive.com/s/wdeBS6RaXZm  提取码: 89ua
@@ -40,5 +42,12 @@ https://pages.aliyundrive.com/mobile-page/web/beinvited.html?code=b75a122
 如有下载不畅，请在issues中说明，或者邮件：xuelei0227@foxmail.com联系
 
 如果本仓库对你有帮助，欢迎扫描下面二维码给我赞赏
+
+以下赞赏排名不分先后
+- *难 ￥5
+- *yi ￥10
+- *樱 ￥1
+- *了 ￥1
+- *！ ￥5
 
 ![](https://github.com/xiaolei565/aimto408/blob/master/wxpay.jpeg?raw=true)
