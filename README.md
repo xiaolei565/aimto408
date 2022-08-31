@@ -32,6 +32,12 @@
 
 #### 22.08.31 感谢@Sxmx提出本人总结的代码中的bug，目前已修改，再次鸣谢
 
+#### 如果你也有计算机专业课方面的资料，如果你也乐意分享，请点击下面链接发送给我，谢谢
+
+[文件收集地址](https://pan.baidu.com/disk/main#/transfer/send?surl=ABwAAAAAAA8NtQ)
+
+
+================================================================
 #### 百度网盘：https://pan.baidu.com/s/1OrYrfEY2Z3JtTNZHXjRD5g  提取码：9aqr （网速太慢，内容暂未更新）
 
 #### 阿里云盘 ：https://www.aliyundrive.com/s/wdeBS6RaXZm  提取码: 89ua
