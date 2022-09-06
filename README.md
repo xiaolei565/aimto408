@@ -50,6 +50,7 @@ https://pages.aliyundrive.com/mobile-page/web/beinvited.html?code=b75a122
 如果本仓库对你有帮助，欢迎扫描下面二维码给我赞赏
 
 以下赞赏排名不分先后
+- S*e ￥5
 - *难 ￥5
 - *yi ￥10
 - *樱 ￥1
