@@ -34,6 +34,8 @@
 
 #### 22.09.16 2023年考研新大纲对比上新，其中408大纲一个字都没改，大家安心复习就好
 
+#### 23.08.21 更新阿里云盘链接，由于云盘链接随时可能失效，失效请及时邮件联系
+
 #### 如果你也有计算机专业课方面的资料，如果你也乐意分享，请点击下面链接发送给我，谢谢
 
 [文件收集地址](https://pan.baidu.com/disk/main#/transfer/send?surl=ABwAAAAAAA8NtQ)
@@ -42,7 +44,7 @@
 ================================================================
 #### 百度网盘：https://pan.baidu.com/s/1OrYrfEY2Z3JtTNZHXjRD5g  提取码：9aqr （网速太慢，内容暂未更新）
 
-#### 阿里云盘 ：https://www.aliyundrive.com/s/wdeBS6RaXZm  提取码: 89ua
+#### 阿里云盘 ：https://www.aliyundrive.com/s/SrLDDPGDafT
 
 没有阿里云盘的同学欢迎点击下方我的邀请链接进行注册，直接领取300GB空间
 https://pages.aliyundrive.com/mobile-page/web/beinvited.html?code=b75a122
